@@ -1,0 +1,5 @@
+Ce dossier permet de calculer la similarite d'une molécule donnée avec toutes autres molécules de la base.
+
+dans ce modèle de similarité on tient compte de la valeur sur les aretes de type rouge (reliant deux cycles appartenant au meme magma mais n'ayant aucun atome en commun) et ceux de types vert(reliant deux cycles de magma différents)
+
+./test.sh

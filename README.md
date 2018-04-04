@@ -6,3 +6,5 @@ Similarité sur le graphe de cycles des molécules
 
 
 Il faut lancer le script ./similarite_olivier.sh
+
+Version à jour
